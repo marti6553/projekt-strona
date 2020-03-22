@@ -1,0 +1,88 @@
+body{
+  font-family: Montserrat;
+  text-align: center;
+}
+
+p{
+  color: #8f8f8f;
+}
+
+/* Nav bar - górne menu */
+
+
+.nav-item{
+  padding: 0 20px;
+}
+
+#navbarNav{
+  border-bottom: 1px solid #777;
+  border-top: 1px solid #777;
+  border-color: #e2e2e2;
+}
+
+.nav-link{
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: 400;
+  padding: 20px;
+  color: black;
+
+}
+.navbar{
+  padding: 0 0 1rem;
+}
+
+/* Title */
+
+.title-content{
+padding: 3% 20% 7%;
+}
+
+.profile-photo{
+  width: 150px;
+
+}
+
+.title-h4{
+  padding: 5px;
+  line-height: 1.5;
+  font-weight: 400;
+  font-size: 14px;
+  width: 40%;
+  margin: auto;
+}
+
+/* Umiejki */
+
+.img-skill{
+  width: 100px;
+  float: left;
+  margin-right: 20px;
+
+}
+.p-skill{
+  margin: auto;
+}
+.skills-row{
+  width: 60%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.skills-h2{
+  margin: auto;
+  text-align: left;
+  font-size: 1.5rem;
+  font-weight: 400;
+  margin-bottom: 7px;
+}
+
+.skills-content{
+  padding: 3% 20% 7%;
+}
+
+.h1-title{
+  margin-bottom: 50px;
+}
+.footer-logo{
+  padding: 10px;
+}
